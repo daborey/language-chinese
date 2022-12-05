@@ -5,6 +5,16 @@
 Wǒ bù tài dǒng zhōngwén.
 I do not know much Chinese.
 
+មួយដុល្លារ
+一美元
+Yī měiyuán
+one dollar
+
+តម្លៃប៉ុន្មាន?
+多少钱？
+Duōshǎo qián?
+How much?
+
 * កិរិយាស័ព្ទ
 
 ញុាំ
@@ -28,6 +38,11 @@ food
 白饭
 Báifàn
 rice
+
+កង់
+自行车
+Zìxíngchē
+bicycle
 
 * លេខ
 
