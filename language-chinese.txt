@@ -1,18 +1,80 @@
+*ប្រយោគ
+
 ខ្ញុំមិនសូវចេះចិនទេ។
 我不太懂中文。
 Wǒ bù tài dǒng zhōngwén.
 I do not know much Chinese.
 
+* កិរិយាស័ព្ទ
 
 ញុាំ
 吃
 Chī
 eat
 
+* នាម
+
 បន្ទប់ទឹក
 洗手间
 Xǐshǒujiān
 toilet
+
+ម្ហូបអាហារ
+食物
+Shíwù
+food
+
+បាយ
+白饭
+Báifàn
+rice
+
+* លេខ
+
+លេខ ១
+一
+Yī
+one 
+
+លេខ ២
+二
+Èr
+two
+
+លេខ ៣
+三
+Sān
+three
+
+លេខ ៤
+四
+Sì
+four
+
+លេខ ៥
+五
+Wǔ
+five
+
+លេខ ៦
+六
+Liù
+six
+
+លេខ ៧
+七
+Qī
+seven
+
+លេខ ៨
+八
+Bā
+eight
+
+លេខ ៩
+九
+Jiǔ
+nine
 
 
 
