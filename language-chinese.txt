@@ -24,6 +24,11 @@ eat
 
 * នាម
 
+ទូរស័ព្ទ
+手机
+Shǒujī
+smart-phone
+
 បន្ទប់ទឹក
 洗手间
 Xǐshǒujiān
@@ -45,6 +50,11 @@ Zìxíngchē
 bicycle
 
 * លេខ
+
+លេខ ០
+零
+Líng
+zero
 
 លេខ ១
 一
