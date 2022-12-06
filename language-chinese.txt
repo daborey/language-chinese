@@ -5,6 +5,21 @@
 Wǒ bù tài dǒng zhōngwén.
 I do not know much Chinese.
 
+ខ្ញុំចង់ទៅដើរលេងប្រទេសចិន។
+我想访问中国。
+Wǒ xiǎng fǎngwèn zhōngguó.
+I want to visit China.
+
+ខ្ញុំចង់រៀនភាសាចិន។
+我想学中文。
+Wǒ xiǎng xué zhōngwén.
+I want to learn chinese.
+
+ខ្ញុំស្រលាញ់ប្រទេសចិន។
+我爱中国。
+Wǒ ài zhōngguó.
+I love China.
+
 មួយដុល្លារ
 一美元
 Yī měiyuán
