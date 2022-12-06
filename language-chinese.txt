@@ -27,6 +27,21 @@ eat
 
 * នាម
 
+រាយ, ដប់, រយ, ពាន់, មុឺន, សែន, លាន 
+个、十、百、千、万、十万、百万
+Gè, shí, bǎi, qiān, wàn, shí wàn, bǎi wàn
+one, ten, hundred, thousand, ten-thousand, hundred-thousand, million
+
+លុយយាន់(លុយចិន)
+元
+Yuán
+yuan
+
+លុយដុល្លារ
+美元
+Měiyuán
+dollar
+
 ទូរស័ព្ទ
 手机
 Shǒujī
